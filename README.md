@@ -62,11 +62,11 @@ The dataset includes 1,000 sales records across three Walmart branches (Mandalay
   - Highest revenue by city and product?  
   - VAT contribution by product lines?
 - **Sales Analysis:**  
-  - Sales patterns by time of day and weekday.  
+  - Sales patterns by time of day.
   - Customer types generating the most revenue.
 - **Customer Analysis:**  
   - Customer and gender distribution.  
-  - Trends in customer ratings by day and branch.
+  - Trends in customer ratings by branch.
 
 ### Revenue and Profit Calculations
 - **Cost of Goods Sold (COGS):**  
